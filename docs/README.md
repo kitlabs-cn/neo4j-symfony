@@ -23,7 +23,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```console
-$ composer require neo4j/neo4j-bundle
+$ composer require kitlabs/neo4j-bundle
 ```
 
 ### Step 2: Enable the Bundle
