@@ -1,5 +1,5 @@
 {
-    "name": "neo4j/neo4j-bundle",
+    "name": "kitlabs/neo4j-bundle",
     "description": "Symfony integration for Neo4j",
     "type": "symfony-bundle",
     "keywords": ["neo4j", "symfony", "bundle", "graph", "database", "cypher"],
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "laudis/neo4j-php-client": "^3.0.5",
+        "kitlabs/neo4j-php-client": "^13.0",
         "twig/twig": "^3.0",
         "ext-json": "*",
         "symfony/dependency-injection": "^5.4 || ^6.0",
